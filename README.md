@@ -10,7 +10,7 @@ The resolution is **not hardcoded**, so this may also work in other games with t
 
 ### Tested on
 - RTX 3070ti
-- Star Wars Zero Company, Cyberbunk 2077
+- Star Wars Zero Company, Cyberpunk 2077
 - Neural Upstream v0.3.0
 
 ### Installation
